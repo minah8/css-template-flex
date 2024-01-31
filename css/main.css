@@ -296,7 +296,7 @@ section.contents .partner ul li {
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
-    align-content: center; 
+    align-items: center; 
 
     opacity: 0.4;
     transition: 0.3s;
